@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function (api) {
   api.versionsFrom('1.0');
-  api.addFiles([
+  api.addAssets([
     /* icon sprites */
     'bower_components/material-design-icons/iconfont/MaterialIcons-Regular.eot',
     'bower_components/material-design-icons/iconfont/MaterialIcons-Regular.ttf',
