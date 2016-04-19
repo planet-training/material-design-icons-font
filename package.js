@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Material design icons from google (font)",
   name:"planettraining:material-design-icons-font",
-  version: "2.1.1_2",
+  version: "2.2.3",
   git:"https://github.com/planet-training/material-design-icons-font.git"
 });
 
